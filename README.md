@@ -1,1 +1,3 @@
-# android_udemy_constraintlayout
+# Android proyect - intro
+
+Proyecto de introduccion especidifcaod en el uso del constraintlayout
